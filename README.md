@@ -1,10 +1,11 @@
-# Karate_Club_Modularity_Assignment
+DSC 212 ASSIGNMENT
 
 # Modularity on the Karate Club Graph  
 
 **Name:** Manini Sharma  
 **Roll No.:** IMS24291  
 **Course:** DSC212 – Graph Theory  
+**Submitted To:** - Dr.Saptarishi Bej
 
 This is my research assignment for DSC212 where I worked on detecting communities in **Zachary's Karate Club Graph** using **recursive spectral modularity partitioning**.  
 The main goal was to understand how modularity helps in finding real-world social groups using mathematical graph theory.  
